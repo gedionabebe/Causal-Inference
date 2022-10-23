@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/User/Desktop/Causal-Inference/notebooks/mlruns/1/e0decc32047e45bebdf239c79e5d322e/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e0decc32047e45bebdf239c79e5d322e
+run_uuid: e0decc32047e45bebdf239c79e5d322e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666537122845
+status: 1
+tags: []
+user_id: User
