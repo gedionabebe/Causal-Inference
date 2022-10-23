@@ -25,7 +25,6 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Post reports as comments in GitHub PRs
-          echo "### Vecotorbt Result" > report.md
-          cat notebooks/Random Forest Regression reports/report.txt >> report.md
-          
+          echo "### Causal Inference Result" > report.md
+          cml-publish images/largest.png --md >> report.md
           cml-send-comment report.md
